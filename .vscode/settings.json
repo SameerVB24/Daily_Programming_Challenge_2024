@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "any": "cpp",
+        "optional": "cpp",
+        "variant": "cpp"
+    },
+    "pieces.cloudCapabilities": "Blended",
+    "pieces.telemetry": true
+}
